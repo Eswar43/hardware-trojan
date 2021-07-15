@@ -1,2 +1,2 @@
-# hardware-trojan
-for finding transition proability 
+# Hardware-trojan
+For finding transition proability 
